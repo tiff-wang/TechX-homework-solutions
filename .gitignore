@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# pokedex
+Pokedex-Webapp/dataset/*
+Pokedex-Webapp/model/pokedex.model
